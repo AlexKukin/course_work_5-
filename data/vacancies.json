@@ -1,0 +1,1325 @@
+[
+    {
+        "id": 102436012,
+        "name": "Программист-разработчик",
+        "url": "https://api.hh.ru/vacancies/102436012?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": 2000000,
+        "employer_id": 2642624,
+        "employer_name": "ТК Прогресс"
+    },
+    {
+        "id": 102300750,
+        "name": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/102300750?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101276173,
+        "name": "Junior Python разработчик / IT / (удаленно)",
+        "url": "https://api.hh.ru/vacancies/101276173?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 100000,
+        "employer_id": 5856776,
+        "employer_name": "Зерокодер"
+    },
+    {
+        "id": 102376188,
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/102376188?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 101988408,
+        "name": "Бухгалтер в единственном лице (Удаленно | ИП УСН 6%)",
+        "url": "https://api.hh.ru/vacancies/101988408?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 100000,
+        "employer_id": 5686111,
+        "employer_name": "Olima"
+    },
+    {
+        "id": 102483362,
+        "name": "Junior+ Python разработчик",
+        "url": "https://api.hh.ru/vacancies/102483362?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 100000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 102087004,
+        "name": "Глава представительства ENOC в Москве: Дистрибуция смазочных материалов на территории РФ",
+        "url": "https://api.hh.ru/vacancies/102087004?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101653612,
+        "name": "Data Analyst/Аналитик данных (Junior)",
+        "url": "https://api.hh.ru/vacancies/101653612?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 101904521,
+        "name": "Python backend developer",
+        "url": "https://api.hh.ru/vacancies/101904521?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "employer_id": 1622442,
+        "employer_name": "Максимал"
+    },
+    {
+        "id": 101077785,
+        "name": "Разработчик Python / Django",
+        "url": "https://api.hh.ru/vacancies/101077785?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "employer_id": 4767781,
+        "employer_name": "AlfaBit"
+    },
+    {
+        "id": 100501607,
+        "name": "Junior, Middle на позицию Electronics Engineer.",
+        "url": "https://api.hh.ru/vacancies/100501607?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": 700000,
+        "employer_id": 3365917,
+        "employer_name": "Cleverest Technologies"
+    },
+    {
+        "id": 100509562,
+        "name": "Младший аналитик (IT)",
+        "url": "https://api.hh.ru/vacancies/100509562?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 140000,
+        "employer_id": 5686111,
+        "employer_name": "Olima"
+    },
+    {
+        "id": 102292757,
+        "name": "Юрист (Digital)",
+        "url": "https://api.hh.ru/vacancies/102292757?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 101389243,
+        "name": "Специалист технической поддержки",
+        "url": "https://api.hh.ru/vacancies/101389243?host=hh.ru",
+        "salary_from": 35000,
+        "salary_to": 50000,
+        "employer_id": 4767781,
+        "employer_name": "AlfaBit"
+    },
+    {
+        "id": 102295718,
+        "name": "Юрист",
+        "url": "https://api.hh.ru/vacancies/102295718?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 102067691,
+        "name": "QA Automation",
+        "url": "https://api.hh.ru/vacancies/102067691?host=hh.ru",
+        "salary_from": 130000,
+        "salary_to": 200000,
+        "employer_id": 4767781,
+        "employer_name": "AlfaBit"
+    },
+    {
+        "id": 101121810,
+        "name": "Frontend Developer Vue.JS",
+        "url": "https://api.hh.ru/vacancies/101121810?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 350000,
+        "employer_id": 4767781,
+        "employer_name": "AlfaBit"
+    },
+    {
+        "id": 100345167,
+        "name": "Кладовщик-комплектовщик (х.Ленинаван)",
+        "url": "https://api.hh.ru/vacancies/100345167?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 90000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101655163,
+        "name": "Java-разработчик",
+        "url": "https://api.hh.ru/vacancies/101655163?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 101758027,
+        "name": "Интернет-маркетолог",
+        "url": "https://api.hh.ru/vacancies/101758027?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 101957904,
+        "name": "Менеджер направления (Digital маркетинг)",
+        "url": "https://api.hh.ru/vacancies/101957904?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 101877747,
+        "name": "Middle Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/101877747?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "employer_id": 1622442,
+        "employer_name": "Максимал"
+    },
+    {
+        "id": 102076785,
+        "name": "Рекрутер",
+        "url": "https://api.hh.ru/vacancies/102076785?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 100538622,
+        "name": "Коммерческий директор",
+        "url": "https://api.hh.ru/vacancies/100538622?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102378541,
+        "name": "Project Manager",
+        "url": "https://api.hh.ru/vacancies/102378541?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 102087005,
+        "name": "Глава представительства ENOC в Москве: Дистрибуция смазочных материалов на территории РФ",
+        "url": "https://api.hh.ru/vacancies/102087005?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102360689,
+        "name": "Водитель-экспедитор с личным автомобилем",
+        "url": "https://api.hh.ru/vacancies/102360689?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102551391,
+        "name": "Торговый представитель (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/102551391?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 120000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101855105,
+        "name": "Маркетинговый аналитик",
+        "url": "https://api.hh.ru/vacancies/101855105?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 100734248,
+        "name": "Системный аналитик (Речевая аналитика)",
+        "url": "https://api.hh.ru/vacancies/100734248?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 102218297,
+        "name": "Специалист по документообороту (1С, Excel)",
+        "url": "https://api.hh.ru/vacancies/102218297?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 80000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 101624738,
+        "name": "Technical Lead Frontend",
+        "url": "https://api.hh.ru/vacancies/101624738?host=hh.ru",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employer_id": 4767781,
+        "employer_name": "AlfaBit"
+    },
+    {
+        "id": 101362787,
+        "name": "Локальный тренер",
+        "url": "https://api.hh.ru/vacancies/101362787?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102190946,
+        "name": "Менеджер по продажам (удаленно)",
+        "url": "https://api.hh.ru/vacancies/102190946?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 92760591,
+        "name": "Специалист по контекстной рекламе (агентство интернет-рекламы)",
+        "url": "https://api.hh.ru/vacancies/92760591?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 90000,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 101256114,
+        "name": "Менеджер по персоналу",
+        "url": "https://api.hh.ru/vacancies/101256114?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101836495,
+        "name": "Web-дизайнер",
+        "url": "https://api.hh.ru/vacancies/101836495?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 80000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101676656,
+        "name": "Ассистент HR-менеджера | Младший рекрутер",
+        "url": "https://api.hh.ru/vacancies/101676656?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "employer_id": 5686111,
+        "employer_name": "Olima"
+    },
+    {
+        "id": 101954771,
+        "name": "Администратор в Дилерский Центр Geely",
+        "url": "https://api.hh.ru/vacancies/101954771?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101854708,
+        "name": "Юрист по IP (Защита интеллектуальной собственности)",
+        "url": "https://api.hh.ru/vacancies/101854708?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 102371484,
+        "name": "PHP-разработчик",
+        "url": "https://api.hh.ru/vacancies/102371484?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 90000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102255696,
+        "name": "Менеджер по работе с маркетплейсами",
+        "url": "https://api.hh.ru/vacancies/102255696?host=hh.ru",
+        "salary_from": 65000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100538623,
+        "name": "Коммерческий директор",
+        "url": "https://api.hh.ru/vacancies/100538623?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102388544,
+        "name": "Менеджер интернет-магазина (офис)",
+        "url": "https://api.hh.ru/vacancies/102388544?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": 35000,
+        "employer_id": 1622442,
+        "employer_name": "Максимал"
+    },
+    {
+        "id": 102436273,
+        "name": "Рекрутер IT (Digital)",
+        "url": "https://api.hh.ru/vacancies/102436273?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "employer_id": 4767781,
+        "employer_name": "AlfaBit"
+    },
+    {
+        "id": 101855182,
+        "name": "BI Analyst",
+        "url": "https://api.hh.ru/vacancies/101855182?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 101284967,
+        "name": "Бизнес-аналитик",
+        "url": "https://api.hh.ru/vacancies/101284967?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 101526543,
+        "name": "Водитель с личным автомобилем",
+        "url": "https://api.hh.ru/vacancies/101526543?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102082610,
+        "name": "Юрист",
+        "url": "https://api.hh.ru/vacancies/102082610?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 97923753,
+        "name": "Руководитель отдела транспортной логистики",
+        "url": "https://api.hh.ru/vacancies/97923753?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100520269,
+        "name": "DevOps инженер",
+        "url": "https://api.hh.ru/vacancies/100520269?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 92142088,
+        "name": "Менеджер по работе с маркетплейсами (Wildberries, Ozon, Яндекс маркет)",
+        "url": "https://api.hh.ru/vacancies/92142088?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 90000,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 100354058,
+        "name": "DevOps/SRE - инженер",
+        "url": "https://api.hh.ru/vacancies/100354058?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 101239357,
+        "name": "PHP developer",
+        "url": "https://api.hh.ru/vacancies/101239357?host=hh.ru",
+        "salary_from": 180000,
+        "salary_to": 200000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 98260270,
+        "name": "Аналитик по управлению товарными запасами",
+        "url": "https://api.hh.ru/vacancies/98260270?host=hh.ru",
+        "salary_from": 110000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102556938,
+        "name": "Категорийный менеджер",
+        "url": "https://api.hh.ru/vacancies/102556938?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 99970980,
+        "name": "Системный администратор / специалист отдела ИТ-поддержки",
+        "url": "https://api.hh.ru/vacancies/99970980?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 80000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98260301,
+        "name": "Аналитик по управлению товарными запасами",
+        "url": "https://api.hh.ru/vacancies/98260301?host=hh.ru",
+        "salary_from": 110000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102209134,
+        "name": "Младший финансовый менеджер",
+        "url": "https://api.hh.ru/vacancies/102209134?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 96018996,
+        "name": "Старший финансовый менеджер (OPEX)",
+        "url": "https://api.hh.ru/vacancies/96018996?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 100606101,
+        "name": "Специалист онлайн обучения (IT)",
+        "url": "https://api.hh.ru/vacancies/100606101?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 150000,
+        "employer_id": 5686111,
+        "employer_name": "Olima"
+    },
+    {
+        "id": 98190709,
+        "name": "Product Manager",
+        "url": "https://api.hh.ru/vacancies/98190709?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 102574546,
+        "name": "Эксперт по работе с платным трафиком (евангелист)",
+        "url": "https://api.hh.ru/vacancies/102574546?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 100840734,
+        "name": "Ведущий специалист по логистике",
+        "url": "https://api.hh.ru/vacancies/100840734?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101238995,
+        "name": "Flutter/Dart developer Middle",
+        "url": "https://api.hh.ru/vacancies/101238995?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 170000,
+        "employer_id": 1622442,
+        "employer_name": "Максимал"
+    },
+    {
+        "id": 101523661,
+        "name": "Кладовщик склада запасных частей",
+        "url": "https://api.hh.ru/vacancies/101523661?host=hh.ru",
+        "salary_from": 65000,
+        "salary_to": 90000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101490736,
+        "name": "Кладовщик",
+        "url": "https://api.hh.ru/vacancies/101490736?host=hh.ru",
+        "salary_from": 45000,
+        "salary_to": 50000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101633573,
+        "name": "Торговый представитель (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/101633573?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102576239,
+        "name": "Middle/Senior Mediabuyer Facebook (FB) Gambling / Арбитраж трафика Гемблинг Фейсбук",
+        "url": "https://api.hh.ru/vacancies/102576239?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 300000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 100412420,
+        "name": "Официант завтраков",
+        "url": "https://api.hh.ru/vacancies/100412420?host=hh.ru",
+        "salary_from": 15000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 75341031,
+        "name": "Специалист по автоматизации интернет-рекламы (Служба Заботы)",
+        "url": "https://api.hh.ru/vacancies/75341031?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 47000,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 101764464,
+        "name": "Дизайнер",
+        "url": "https://api.hh.ru/vacancies/101764464?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 50000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100415675,
+        "name": "Менеджер по продажам автомобилей с пробегом",
+        "url": "https://api.hh.ru/vacancies/100415675?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100411776,
+        "name": "Старший менеджер по продажам автомобилей",
+        "url": "https://api.hh.ru/vacancies/100411776?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 150000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100538624,
+        "name": "Коммерческий директор",
+        "url": "https://api.hh.ru/vacancies/100538624?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101990112,
+        "name": "Digital marketing manager (ИИ продукт) | Диджитал-маркетолог",
+        "url": "https://api.hh.ru/vacancies/101990112?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 101524184,
+        "name": "Директор по персоналу",
+        "url": "https://api.hh.ru/vacancies/101524184?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101863635,
+        "name": "Маркетолог",
+        "url": "https://api.hh.ru/vacancies/101863635?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101163639,
+        "name": "Директор по продажам торговой марки ABSEL",
+        "url": "https://api.hh.ru/vacancies/101163639?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101236909,
+        "name": "Водитель-курьер на личном легковом автомобиле (ВАО,ЮВАО)",
+        "url": "https://api.hh.ru/vacancies/101236909?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 100000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98215854,
+        "name": "Водитель с личным автомобилем",
+        "url": "https://api.hh.ru/vacancies/98215854?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 65000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100412548,
+        "name": "Официант",
+        "url": "https://api.hh.ru/vacancies/100412548?host=hh.ru",
+        "salary_from": 29000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100415407,
+        "name": "Руководитель планово-экономического отдела",
+        "url": "https://api.hh.ru/vacancies/100415407?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101439028,
+        "name": "Кладовщик",
+        "url": "https://api.hh.ru/vacancies/101439028?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102129056,
+        "name": "Администратор Автосервиса",
+        "url": "https://api.hh.ru/vacancies/102129056?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": 35000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100411946,
+        "name": "Торговый представитель (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/100411946?host=hh.ru",
+        "salary_from": 140000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101764301,
+        "name": "Менеджер по рекламной продукции",
+        "url": "https://api.hh.ru/vacancies/101764301?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 50000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100412352,
+        "name": "Разборщик-сборщик автомобилей",
+        "url": "https://api.hh.ru/vacancies/100412352?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102214564,
+        "name": "Су-шеф",
+        "url": "https://api.hh.ru/vacancies/102214564?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101839146,
+        "name": "Региональный представитель по продажам смазочных материалов",
+        "url": "https://api.hh.ru/vacancies/101839146?host=hh.ru",
+        "salary_from": 140000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98432565,
+        "name": "Координатор отдела логистики",
+        "url": "https://api.hh.ru/vacancies/98432565?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101497693,
+        "name": "Водитель-экспедитор (с личным грузовым автомобилем)",
+        "url": "https://api.hh.ru/vacancies/101497693?host=hh.ru",
+        "salary_from": 85000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101239209,
+        "name": "Middle+ PHP Developer",
+        "url": "https://api.hh.ru/vacancies/101239209?host=hh.ru",
+        "salary_from": 130000,
+        "salary_to": 180000,
+        "employer_id": 1622442,
+        "employer_name": "Максимал"
+    },
+    {
+        "id": 101258400,
+        "name": "Solution Architect",
+        "url": "https://api.hh.ru/vacancies/101258400?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 98219948,
+        "name": "Руководитель отдела продаж автомобилей",
+        "url": "https://api.hh.ru/vacancies/98219948?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100415659,
+        "name": "Бухгалтер-аналитик",
+        "url": "https://api.hh.ru/vacancies/100415659?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100536872,
+        "name": "Руководитель отдела маркетинга",
+        "url": "https://api.hh.ru/vacancies/100536872?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100810381,
+        "name": "Водитель с личным автомобилем",
+        "url": "https://api.hh.ru/vacancies/100810381?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 65000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101523610,
+        "name": "Кладовщик склада запасных частей (пос. Дружелюбный)",
+        "url": "https://api.hh.ru/vacancies/101523610?host=hh.ru",
+        "salary_from": 65000,
+        "salary_to": 90000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101586242,
+        "name": "Ассистент отдела продаж",
+        "url": "https://api.hh.ru/vacancies/101586242?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 80000,
+        "employer_id": 783222,
+        "employer_name": "Leads"
+    },
+    {
+        "id": 101486864,
+        "name": "Старший продавец-консультант автомобилей с пробегом",
+        "url": "https://api.hh.ru/vacancies/101486864?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98258095,
+        "name": "Торговый представитель (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/98258095?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100415650,
+        "name": "SEO-специалист",
+        "url": "https://api.hh.ru/vacancies/100415650?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100412028,
+        "name": "Торговый представитель (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/100412028?host=hh.ru",
+        "salary_from": 140000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102206449,
+        "name": "Кладовщик",
+        "url": "https://api.hh.ru/vacancies/102206449?host=hh.ru",
+        "salary_from": 55000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 99865085,
+        "name": "Кладовщик",
+        "url": "https://api.hh.ru/vacancies/99865085?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 96096625,
+        "name": "Руководитель отдела продаж автомобилей",
+        "url": "https://api.hh.ru/vacancies/96096625?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101493270,
+        "name": "Водитель-экспедитор (с личным грузовым автомобилем)",
+        "url": "https://api.hh.ru/vacancies/101493270?host=hh.ru",
+        "salary_from": 85000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98242113,
+        "name": "Data Scientist (ДЦО Недвижимость)",
+        "url": "https://api.hh.ru/vacancies/98242113?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 9301808,
+        "employer_name": "Сбер Бизнес Софт"
+    },
+    {
+        "id": 100844065,
+        "name": "Контролер-охранник склада",
+        "url": "https://api.hh.ru/vacancies/100844065?host=hh.ru",
+        "salary_from": 55000,
+        "salary_to": 60000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100808318,
+        "name": "Дежурный электрик",
+        "url": "https://api.hh.ru/vacancies/100808318?host=hh.ru",
+        "salary_from": 57000,
+        "salary_to": 60000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101235393,
+        "name": "Администратор магазина автозапчастей",
+        "url": "https://api.hh.ru/vacancies/101235393?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100412585,
+        "name": "Горничная (Юго-западный район)",
+        "url": "https://api.hh.ru/vacancies/100412585?host=hh.ru",
+        "salary_from": 32000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98211013,
+        "name": "Водитель-экспедитор с личным автомобилем",
+        "url": "https://api.hh.ru/vacancies/98211013?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 55000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98892163,
+        "name": "Офис-менеджер (без продаж)",
+        "url": "https://api.hh.ru/vacancies/98892163?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102260394,
+        "name": "Региональный представитель по направлению: грузовые запчасти, АКБ, шины",
+        "url": "https://api.hh.ru/vacancies/102260394?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101660162,
+        "name": "Ассистент продакт-менеджера (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/101660162?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100413271,
+        "name": "Посудомойщица/посудомойщик",
+        "url": "https://api.hh.ru/vacancies/100413271?host=hh.ru",
+        "salary_from": 29000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100608957,
+        "name": "Руководитель проекта: Дистрибуция смазочных материалов на территории РФ",
+        "url": "https://api.hh.ru/vacancies/100608957?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101126309,
+        "name": "Кладовщик",
+        "url": "https://api.hh.ru/vacancies/101126309?host=hh.ru",
+        "salary_from": 75000,
+        "salary_to": 100000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100412286,
+        "name": "Торговый представитель",
+        "url": "https://api.hh.ru/vacancies/100412286?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 96725447,
+        "name": "Специалист по финансовым вопросам (Служба Заботы)",
+        "url": "https://api.hh.ru/vacancies/96725447?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 47000,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 101494479,
+        "name": "Бизнес-аналитик",
+        "url": "https://api.hh.ru/vacancies/101494479?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": null,
+        "employer_id": 2642624,
+        "employer_name": "ТК Прогресс"
+    },
+    {
+        "id": 101878081,
+        "name": "Региональный представитель (грузовые запчасти, шины, аккумуляторы)",
+        "url": "https://api.hh.ru/vacancies/101878081?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 150000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101912788,
+        "name": "Менеджер по работе с рекламациями",
+        "url": "https://api.hh.ru/vacancies/101912788?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101952348,
+        "name": "Старший техник (мастер) АХО",
+        "url": "https://api.hh.ru/vacancies/101952348?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100411661,
+        "name": "Торговый представитель (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/100411661?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98247731,
+        "name": "Юрист (по вопросам рекламы)",
+        "url": "https://api.hh.ru/vacancies/98247731?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 100808866,
+        "name": "Дежурный Техник",
+        "url": "https://api.hh.ru/vacancies/100808866?host=hh.ru",
+        "salary_from": 57000,
+        "salary_to": 60000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102062512,
+        "name": "Системный аналитик (middle)",
+        "url": "https://api.hh.ru/vacancies/102062512?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 4767781,
+        "employer_name": "AlfaBit"
+    },
+    {
+        "id": 100837686,
+        "name": "Программист 1С",
+        "url": "https://api.hh.ru/vacancies/100837686?host=hh.ru",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101863584,
+        "name": "Системный администратор / специалист отдела ИТ-поддержки",
+        "url": "https://api.hh.ru/vacancies/101863584?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102215683,
+        "name": "Повар горячего цеха",
+        "url": "https://api.hh.ru/vacancies/102215683?host=hh.ru",
+        "salary_from": 3200,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101524713,
+        "name": "Кладовщик",
+        "url": "https://api.hh.ru/vacancies/101524713?host=hh.ru",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100537143,
+        "name": "Директор департамента контрактного производства автозапчастей (СТМ)",
+        "url": "https://api.hh.ru/vacancies/100537143?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100413103,
+        "name": "Горничная / Техслужащая / Техслужащий (Юго-западный район)",
+        "url": "https://api.hh.ru/vacancies/100413103?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 99235909,
+        "name": "Менеджер по продажам B2B",
+        "url": "https://api.hh.ru/vacancies/99235909?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1040211,
+        "employer_name": "Группа компаний eLama"
+    },
+    {
+        "id": 102215537,
+        "name": "Повар холодного цеха",
+        "url": "https://api.hh.ru/vacancies/102215537?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100412405,
+        "name": "Диагност в Дилерский центр",
+        "url": "https://api.hh.ru/vacancies/100412405?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 96015349,
+        "name": "Директор по продажам (Шины и аккумуляторные батареи)",
+        "url": "https://api.hh.ru/vacancies/96015349?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 102416026,
+        "name": "Автомойщик",
+        "url": "https://api.hh.ru/vacancies/102416026?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101125955,
+        "name": "Менеджер по продукту СТМ (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/101125955?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101956862,
+        "name": "Кладовщик склада",
+        "url": "https://api.hh.ru/vacancies/101956862?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 55000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 100536893,
+        "name": "Менеджер по продукту СТМ (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/100536893?host=hh.ru",
+        "salary_from": 110000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101526426,
+        "name": "Менеджер по работе с клиентами",
+        "url": "https://api.hh.ru/vacancies/101526426?host=hh.ru",
+        "salary_from": 37000,
+        "salary_to": 40000,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 98258169,
+        "name": "Торговый представитель (автозапчасти)",
+        "url": "https://api.hh.ru/vacancies/98258169?host=hh.ru",
+        "salary_from": 140000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    },
+    {
+        "id": 101505175,
+        "name": "Менеджер по продажам автозапчастей",
+        "url": "https://api.hh.ru/vacancies/101505175?host=hh.ru",
+        "salary_from": 75000,
+        "salary_to": null,
+        "employer_id": 1235466,
+        "employer_name": "ABS GROUP"
+    }
+]
