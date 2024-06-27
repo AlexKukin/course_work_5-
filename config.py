@@ -7,14 +7,6 @@ DB_CONN_FILE_PATH = os.path.join(DATA_DIR_PATH, "database.ini")
 CONFIG_SQL_FILE_PATH = os.path.join(DATA_DIR_PATH, DB_CONN_FILE_PATH)
 
 
-# def config():
-#     parser = ConfigParser()
-#     file_name = os.path.join(DATA_DIR_PATH, DB_CONN_FILE_PATH)
-#     parser.read(file_name)
-#     confdict = {section: dict(parser.items(section)) for section in parser.sections()}
-#     return confdict
-
-
 def config(filename=CONFIG_SQL_FILE_PATH, section="postgresql"):
     # create a parser
     parser = ConfigParser()
