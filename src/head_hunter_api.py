@@ -3,31 +3,16 @@ from abc import ABC, abstractmethod
 from src.vacancy import Vacancy
 
 
-class Parser(ABC):
-    """
-    Aбстрактный класс. Должен уметь подключаться к API и получать вакансии.
-    При инициализации сохраняет считанные данные в файл на диск. С замещением файла.
-    """
-
-    def __init__(self, file_worker):
-        self.file_worker = file_worker
-
-    @abstractmethod
-    def load_vacancies(self, keyword):
-        """ Загрузка вакансий из удаленного ресурса """
-        pass
-
-
-class HeadHunterAPI(Parser):
+class HeadHunterAPI:
     """
     Класс для работы с API HeadHunter
     """
 
-    def __init__(self, file_worker):
+    def __init__(self):
         self.url = 'https://api.hh.ru/vacancies'
         self.headers = {'User-Agent': 'HH-User-Agent'}
         self.def_params = {'page': 0, 'per_page': 100}
-        super().__init__(file_worker)
+        super().__init__()
 
     def load_vacancies(self, params):
         """ Загрузка вакансий из удаленного ресурса HH.ru"""
